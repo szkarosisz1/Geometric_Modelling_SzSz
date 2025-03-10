@@ -1,3 +1,4 @@
+##sdad
 
 **Név:** Szkárosi Szilárd
 **Szak:** Mérnökinformatikus MSc
