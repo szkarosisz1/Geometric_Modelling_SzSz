@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binomialis_egyutthatok_WPF", "Binomialis_egyutthatok_WPF\Binomialis_egyutthatok_WPF.csproj", "{980384B7-5D5F-4729-A51B-2DBB525065F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980384B7-5D5F-4729-A51B-2DBB525065F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980384B7-5D5F-4729-A51B-2DBB525065F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980384B7-5D5F-4729-A51B-2DBB525065F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980384B7-5D5F-4729-A51B-2DBB525065F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D4AEEB9-D3F2-4F5D-8874-8B9C2A2C0362}
+	EndGlobalSection
+EndGlobal

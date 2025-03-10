@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermite_curve_WPF", "Hermite_curve_WPF\Hermite_curve_WPF.csproj", "{0E015249-6AAC-4F08-8598-7A8D2F7D9E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E015249-6AAC-4F08-8598-7A8D2F7D9E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E015249-6AAC-4F08-8598-7A8D2F7D9E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E015249-6AAC-4F08-8598-7A8D2F7D9E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E015249-6AAC-4F08-8598-7A8D2F7D9E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40298F7B-64C1-448C-9830-15B03A2CD634}
+	EndGlobalSection
+EndGlobal
