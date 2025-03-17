@@ -1,0 +1,8 @@
+﻿<Window x:Class="BezierCurveApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Racionális Bézier-görbe" Height="450" Width="600">
+    <Grid>
+        <Canvas Name="BezierCanvas" Background="White" MouseLeftButtonDown="Canvas_MouseLeftButtonDown" />
+    </Grid>
+</Window>
