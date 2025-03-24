@@ -8,6 +8,6 @@
 
 ## 📂 Tartalom
 
-- **Ezen a repositosity-n található az órán végzett feladataim, amelyet C#-ban valósítottam meg.
-- **Grafikus felülethez a WFP-et használtam.
-- **A projektek célja a görbék és felületek modellezésének vizsgálata. A féléves feladatomat egy másik repository-ba fogom feltölteni. 
+- Ezen a repositosity-n található az órán végzett feladataim, amelyet C#-ban valósítottam meg.
+- Grafikus felülethez a WFP-et használtam.
+- A projektek célja a görbék és felületek modellezésének vizsgálata. A féléves feladatomat egy másik repository-ba fogom feltölteni. 
