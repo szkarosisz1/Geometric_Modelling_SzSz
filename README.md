@@ -8,4 +8,6 @@
 
 ## 📂 Tartalom
 
-Ez a repository tartalmazza a Geometriai Modellezés tantárgyhoz kapcsolódó különböző WPF és konzolos alkalmazásokat. A projektek célja a görbék és felületek modellezésének vizsgálata. Ide fogom feltölteni a beadandó feladatomat.
+- **Ezen a repositosity-n található az órán végzett feladataim, amelyet C#-ban valósítottam meg.
+- **Grafikus felülethez a WFP-et használtam.
+- **A projektek célja a görbék és felületek modellezésének vizsgálata. A féléves feladatomat egy másik repository-ba fogom feltölteni. 
