@@ -87,6 +87,3 @@ line, = ax.plot([], [], [], 'r', label="B-spline görbe")
 ani = animation.FuncAnimation(fig, update, frames=len(data), fargs=(data, line), interval=50, blit=False)
 
 plt.show()
-
-# Összehasonlítás/Tanulság: Descartes és Gömbi (szebb, érvek, hol érdemes használni)
-
